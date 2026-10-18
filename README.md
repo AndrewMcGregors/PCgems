@@ -36,10 +36,10 @@ merging existing folder (Ex: C:\Apps\PCgems\floppy);<br>
 	- Download (optionally) from the /Packages repository the PCgems 
 Small Cassette Pack and unpack it in the PCgems folder, eventually 
 merging existing folder (Ex: C:\Apps\PCgems\cassette);<br>
-	- Put your cdrom images (*.cue, *.iso) in the /cd folder;<br>
-	- Put your floppy disc images (*.img) in the /floppy folder;<br>
-	- Put your cassette images (*.wav, *.pzx) in the /cassette folder;<br>
-	- Put your photos (*.bmp 4:3) in the /photo folder;<br>
+	- Put your cdrom images (.cue, .iso) in the /cd folder;<br>
+	- Put your floppy disc images (.img) in the /floppy folder;<br>
+	- Put your cassette images (.wav, .pzx) in the /cassette folder;<br>
+	- Put your photos (.bmp 4:3) in the /photo folder;<br>
 <br><br>
 </p>
 <br><br>
