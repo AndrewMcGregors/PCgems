@@ -4,8 +4,8 @@
         PCgems is an emulator of little hardware gems from the 80s 
 and 90s based on SWEET.<br>
 	PCgems has a friendly and easy to use interface, supports more
-than 300 preconfigured models and adds a lot of picture and info
-about the emulated hardware.<br>
+than 300 preconfigured models of IBM and compatible machines and 
+adds a lot of picture and info about the emulated hardware.<br>
 	All XT machines are equipped with 512/640 Kb of RAM and 10 Mb 
 MFM/RLL hard disc; LCC 68 based machines have 1024/4096 Kb of RAM 
 and 10/20 Mb IDE/ESDI hard disc; QFP 100 and PGA 132 machine have up to
