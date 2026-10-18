@@ -56,7 +56,7 @@ Manager window will open;<br>
 	- In the PCgems Configuration Manager, click on the top 
 right icon with the computer picture; the PCgems Model Selection
 dialog window will open;<br>
-	- In the PCgems Model Selection dialog windows, select 
+	- In the PCgems Model Selection dialog window, select 
 the desired model in the left box; on the right you can find 
 some boxes to filter the machine list based on chipset, bios, 
 manufacturer, year, ecc...<br>
