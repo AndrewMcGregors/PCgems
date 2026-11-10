@@ -11,8 +11,9 @@ MFM/RLL hard disc; LCC 68 based machines have 1024/4096 Kb of RAM
 and 10/20 Mb IDE/ESDI hard disc; QFP 100 and PGA 132 machine have up to
 16 Mb of RAM and 20/40 Mb IDE/SCSI hard disc; other AT machines have 
 customizable RAM/DISC size through the machine bios setup.<br>
-	It is also possible to add photos and images of your favourite
-hardware and look them inside PCgems toghether with the machine.<br>
+	It is also possible to add photos and images of favourite
+hardware and look them inside the emulator toghether with the machine.<br>
+	PCgems is particularly suitable for those who need to quickly move the installation from one machine to another and access resources rapidly and efficiently; its folder contains everything needed for proper operation.<br>
 	Available in six languages.
 <br><br>
 </p>
